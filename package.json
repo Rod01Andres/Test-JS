@@ -1,0 +1,12 @@
+{
+  "name": "test-js",
+  "version": "1.0.0",
+  "description": "I´ve started a platzi course in testing with Jest.JS looking for some theory in what I'm doing in my job. Hope I learn a lot!",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
