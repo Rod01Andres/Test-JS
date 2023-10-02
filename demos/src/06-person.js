@@ -19,10 +19,11 @@ class Person {
       return 'Overweight level 1'
     } if (result >= 30 && result <= 39) {
       return 'Overweight level 2'
-    } if (result >= 40) {
+    } if (result >= 40 && result <= 59) {
       return 'Overweight level 3'
     }
     return 'Not found'
   }
 }
+
 module.exports = Person
